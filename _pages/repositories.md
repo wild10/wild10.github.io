@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: this space shows some of my "repos" to the project I am working on. 
+description: This space shows some of my "repos" to the project I am working on. 
 nav: true
 nav_order: 4
 ---
