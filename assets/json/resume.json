@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Errol W. Mamani",
+    "label": "Mcs",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "wildr.10@gmail.com",
+    "phone": "",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A Peruvian ML Engineer, willing to learn all about AI and computational social science",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
