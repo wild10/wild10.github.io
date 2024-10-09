@@ -1,11 +1,11 @@
 github_users:
   - wild10
-  <!-- - alshedivat-->
+  - alshedivat
 
 github_repos:
   - wild10/vgcn_bert_mxa3t
   - wild10/Quechua_lyrics_generation
-  <!-- - jekyll/jekyll
+  - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
