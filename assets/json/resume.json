@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "PING4ALL"
+      "position": " Computer Vision Engineer ",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2022-12-19",
+      "endDate": "2024-10-09",
+      "summary": "As ML Engineer i worked design and implementing Deep learning solutions for the FMO object detection through videos.",
       "highlights": ["Relativity"]
     }
   ],
