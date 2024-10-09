@@ -6,7 +6,6 @@ description: Edit the `_data/repositories.yml` and change the `github_users` and
 nav: true
 nav_order: 4
 ---
-<!--
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -35,7 +34,6 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
--->
 
 ## GitHub Repositories
 
