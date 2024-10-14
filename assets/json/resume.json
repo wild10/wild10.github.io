@@ -5,7 +5,7 @@
     "image": "",
     "email": "wildr.10@gmail.com",
     "phone": "",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "",
     "summary": "A Peruvian ML Engineer, willing to learn all about AI and computational social science",
     "location": {
       "address": "2712 Broadway St",
@@ -30,32 +30,42 @@
       "startDate": "2022-12-19",
       "endDate": "2024-10-09",
       "summary": "As ML Engineer i worked design and implementing Deep learning solutions for the FMO object detection through videos.",
-      "highlights": ["Relativity"]
+      "highlights": ["object Detection"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Latinx in AI",
+      "location": "California, US",
+      "position": "co-chair of lxnlp workshop",
+      "url": "https://www.latinxinai.org/",
+      "startDate": "2022-01-20",
+      "endDate": "2024-08-08",
+      "summary": "LatinX in AI (LXAI) bridges communities, academics, industry, and politicians working to further AI innovation and resources for LatinX individuals globally.",
+      "highlights": ["Awarded 'Travel grant' for promoting and help the organization.", "NAACL 2024 registration free waver"]
+    },
+    {
+      "organization": "Cohere for AI",
+      "location": "California, US",
+      "position": "beginner in research",
+      "url": "https://cohere.com/research",
+      "startDate": "2023-01-20",
+      "endDate": "2024-08-08",
+      "summary": "As beginner in research with Spanish native language i helped to improve Aya Project dataset."
+      
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Universidad Catolica San Pablo, Arequipa, Peru",
+      "location": "Arequipa, Peru",
+      "url": "https://ucsp.edu.pe/",
+      "area": "Computer Science",
+      "studyType": "Mcs(c)",
+      "startDate": "2017-01-01",
+      "endDate": "2020-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["hate speech"]
     }
   ],
   "awards": [
@@ -151,9 +161,14 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "PE"
+    },
+    {
+      "language": "Quechua",
+      "fluency": "Native speaker",
+      "icon": "PE"
     },
     {
       "language": "English",

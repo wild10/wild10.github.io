@@ -1,33 +1,57 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title:  My hosting experience of the LxAI workshop @NAACL24.
+date: 2024-05-10 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+This blog is about how was the <a href= "https://www.latinxinai.org/naacl-2024"> LatinX in AI  workshop at NAACL2024 </a> and my experience on this event for the second time as co-chair. See below.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/naacl24.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Mexico city, the Capitol building in the city center.
+</div>
 
+
+First of all, this is not my first time being at volunteer for promoting the Latinx in AI as Co-chair i was previously co-chair in 2022 and I actively participated as volunteer and assistaint in previous workshops as my bio shows. said that, I am thrilled reporting that this time the <a href="https://2024.naacl.org/"> NAACL24</a> took part in Mexico city. for those who don't know this is Latin America country located just next and below USA :smile:. Altought this kind of conference are well know for computacional linguist scientist all around the world, it is still unknow for most of the under-develop countries throught the south of America like my hometown country (PERU). Then supporting this kind of workshop give the newcommer in AI who are working in the intersection of linguistic the opportunity to connect with top scientist or individual to improve and fortunately get the chance to continue developing their skills (below the LatinX mission itself).
+
+> LatinX in AI (LXAI) bridges communities, academics, industry, and politicians working to further AI innovation and resources for LatinX individuals globally. We drive and support research, development, infrastructure, and mentoring programs to boost innovation and capabilities of LatinX professionals working in Artificial Intelligence, Machine Learning, and Data Science.
+> —LatinX in AI.
+
+
+The above means that everyone is welcome to take part in the workshop, but certainly we need to give an access to a selective people in this side. so most of the attendees are from this group. and paragraph later i will explain what we need to get the access to the free budged offered by latinx.
 #### Hipster list
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>students</li>
+    <li>professors</li>
+    <li>developers</li>
+    <li>everyone.</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/blogs/lxnlp/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/blogs/lxnlp/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Some of the photos during the workshop.
+</div>
+to be continue. . .
 
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+About the papers.
+About the travel grant.
+the Day of the workshop.
+The workshop as part of the NAACL24.
+the networking.
+Future improvements.

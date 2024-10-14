@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Speech recognition for kids.
+description: asr for kids using AI models.
 img:
 importance: 4
 category: fun
 ---
+
+
+{% comment %}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -78,3 +81,6 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+
+{% endcomment %}

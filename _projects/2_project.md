@@ -1,81 +1,61 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: NLP projects
+description: These are some of the research projects that i was involved previously.
+img: assets/img/projects/2.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false #true
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### Spanish Aggressive Language identification using Deep learning
+<div style="text-align: justify">
+Social media platforms and technology companies have been investing heavily in ways to cope with this offensive language to prevent abusive behavior in social media. Waseem and Hovy (2016) One of the first action for tackling this problem is use computational methods to identify aggression and hate speech in user-generated content. This topic has attracted significant attention in recent years as evidenced in recent publications (Waseem et al. 2017; Davidson et al. 2017;Kumar et al. 2018).
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/9.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Here it is me and my fellows next to Kyunghyun Cho from NYU at Khipu 2019, and Neurisp2019.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+An offensive message is characterized by disparaging or humiliating a person or a group of persons, containing nickname, alluding, derogatory, adjectives,profanity and jokes 
+Our goal here is find out howDeep Learning (DL) in Natural Language Process-ing techniques can contribute to the identification of Offensive or Aggressive language in Spanish. 
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
 </div>
-```
 
-{% endraw %}
+
+presentations
+<ul>
+<li> Khipu 2019 Poster  presentation | see pdf version available :framed_picture: <a href="https://drive.google.com/file/d/1XtezC1VmwCNEgnuwyVMwS-wXB-xvcXuh/view"> poster_presentation </a></li>
+<li>Nerurips 2019 Poster presentation | see pdf version available :framed_picture: <a href="https://drive.google.com/file/d/1XtezC1VmwCNEgnuwyVMwS-wXB-xvcXuh/view"> poster_presentation </a> </li>
+</ul>
+--- 
+
+### Speaker Identification using Machine Learning Approaches
+Today speaker assistants such as Cortana, Google, Siri are used in our mobile phones as a resource that we use in our daily life and that we can inter actuate with them. and one of the main engine oh those kind of technologies are the way to identify the speaker in real-time.  Thus, we are going to focus in the aim of identifying the speaker from a single audio information using machine learning techniques, although this work involves hard and advance task in computer science the scientists were working on this problems for a long time until our life, but we still need a new approaches to identify, tackling problems from audio retrieval from real scenarios
+<ul>
+<li> Identificación de locutor usando codebooks de coeficientes cepstrales en las frecuencias de Mel y modelos ocultos de Markov :scroll: <a href="http://repositorio.unsaac.edu.pe/handle/20.500.12918/2466"> thesis_online_repor </a></li>
+</ul>
+
+---
+### Sentiment Analysis for Spanish (Peru) using Machine Learning 
+we are working in information retrieval and analysis of the social media publicacion such as twitter for the opinion mining. We focus in the doing the sentiment analysis task for the Peruvian case study using the collected post.
+
+<ul>
+<li>Analisis masivo de datos en twitter para identificacion de opinion :scroll: <a href="https://repositorio.unsaac.edu.pe/handle/20.500.12918/5252"> thesis_online_repor </a></li>
+</ul>
+
+----
+#### Indigenous(Quechua) Lyrics text Generation using Deep Learning 
+Our first approach is to develop deep learning models to first accomplish the task of generating Spanish and Quechua lyrics automatically for the local music in Peru, this is really not explored task recently we got good outperforming models in text generation and we are interested in exploring this task in other scenarios like music lyrics generation. we are enthusiastically moved that this kind of technology using Artificial Intelligence can help to persevere our culture and contribute to the creating of the new music since in Peru we are daily losing our native language with all this kind of universal incursion in the music side.
+
+<ul>
+<li>Analisis masivo de datos en twitter para identificacion de opinion :scroll: <a href=""> thesis_online_repor </a></li>
+</ul>
+----

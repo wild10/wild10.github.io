@@ -1,81 +1,35 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Machine Learning projects.
+description: During some of my school class i was involve in many projects working in team and personal proyects, i have uploaded on youtube some of them and share here the links.
+img: assets/img/projects/0.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Software dev
+<ul>
+<li>
+Radix Tree Algorithms the web visual  demo implementation demo: <a href="https://www.youtube.com/watch?v=3Io_A2nA318"> video_youtube_here</a>
+</li>
+<li>Mini google using Radix Tree Algorithms, we developed the mini google implemented in c++ using Wikipedia corpus, and web-based script language for the Advance Analysis and design Algorithm | github repo <a href="https://github.com/wild10/miniGoogle"> git_repo_here </a></li>
+</ul>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### SVM
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<ul> 
+<li> 
+Simple SVM implementation in the ipynb format :scroll: <a href="https://github.com/wild10/SVM-/blob/master/SVM_HM.ipynb"> jupyter_repo_here</a> 
+</li>
+<li>Offensive language detection using SVM :scroll: <a href="https://github.com/wild10/SemEval_2019_OffensiveLanguage/blob/master/SemEval_2019_BERT_and_SVM.ipynb" > jupyter_repo_here</a> </li>
+</ul>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+### GMM, HMM
+A Comparison Study of Speaker Identification models, we developed GMM, HMM, and SVM for speaker identification task.
+<ul> 
+<li> 
+re implementation and source code here :scroll: <a href="https://github.com/wild10/Comparation_Study_SR"> jupyter_repo_here</a> 
+</li>
+</ul>
