@@ -55,7 +55,23 @@ we are working in information retrieval and analysis of the social media publica
 #### Indigenous(Quechua) Lyrics text Generation using Deep Learning 
 Our first approach is to develop deep learning models to first accomplish the task of generating Spanish and Quechua lyrics automatically for the local music in Peru, this is really not explored task recently we got good outperforming models in text generation and we are interested in exploring this task in other scenarios like music lyrics generation. we are enthusiastically moved that this kind of technology using Artificial Intelligence can help to persevere our culture and contribute to the creating of the new music since in Peru we are daily losing our native language with all this kind of universal incursion in the music side.
 
+ <div class="row  justify-content-sm-center ">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/17.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/COpDxR9u9fQ" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    .
+</div>
+
 <ul>
-<li>Analisis masivo de datos en twitter para identificacion de opinion :scroll: <a href=""> thesis_online_repor </a></li>
+ <li>Analisis masivo de datos en twitter para identificacion de opinion
+  :scroll: <a href=""> thesis_online_repor </a>
+  :rocket: <a href="https://github.com/wild10/Quechua_lyrics_generation"> git_repo </a>
+ </li>
 </ul>
 ----
