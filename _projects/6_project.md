@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Speech recognition for kids.
-description: asr for kids using AI models.
-img:
+title: Thrive Hub
+description: Space of  productivity, self-improvement, creativity, fun and  Interesting topics.
+img: assets/img/projects/nlp/2.jpg
 importance: 4
 category: fun
 ---

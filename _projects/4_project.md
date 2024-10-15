@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Aggressive Language
-description: Spanish case of Study
-img:
+title: Research Experience.
+description: A spanish case of Study.
+img: assets/img/profile_pic.jpg
 importance: 3
 category: fun
 ---

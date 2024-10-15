@@ -1,7 +1,7 @@
 ---
 layout: page
 title: computer Vision projects
-description:
+description: A small set of CV interesting projects.
 img: assets/img/projects/1.jpg
 redirect: 
 importance: 1
@@ -81,7 +81,9 @@ Many tasks in geometry processing and physical simulation benefit from multireso
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <a href="{{ site.baseurl }}/assets/img/projects/11.jpg" data-fancybox="project" title="Example Image" class="zoom" >
+            {% include figure.liquid path="assets/img/projects/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/qZCHblf1YMs" class="img-fluid rounded z-depth-1" %}
@@ -106,7 +108,9 @@ Many tasks in geometry processing and physical simulation benefit from multireso
 
 <div class="row  justify-content-sm-center ">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+         <a href="{{ site.baseurl }}/assets/img/projects/3.png" data-fancybox="project" title="Example Image" class="zoom" >
+            {% include figure.liquid path="assets/img/projects/3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/XWRRvUBN1wk" class="img-fluid rounded z-depth-1" %}
@@ -137,7 +141,9 @@ Many tasks in geometry processing and physical simulation benefit from multireso
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/13.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        <a href="{{ site.baseurl }}/assets/img/projects/13.png" data-fancybox="project" title="Example Image" class="zoom" >
+            {% include figure.liquid path="assets/img/projects/13.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/x8lLRVlOT1E" class="img-fluid rounded z-depth-1" %}
@@ -174,13 +180,39 @@ In this project, I implemented a robust person detection system tailored for spo
 
 
 Key Features:
+<ul>
+    <li>
+    Real-Time Detection: Captures fast-paced action with minimal latency.
+    </li>
+    <li>
+    Custom Architecture: Optimized YOLO model fine-tuned for sports contexts.
+    </li>
+</ul>
 
-Real-Time Detection: Captures fast-paced action with minimal latency.
-Custom Architecture: Optimized YOLO model fine-tuned for sports contexts.
-Comprehensive Demo: Watch the detection in action here.
-Explore the full project on my GitHub repository for detailed architecture and implementation insights!
+Explore the full project on my GitHub :rocket: <a href=""> repository</a> for detailed architecture and implementation insights!
 
 ---
+### Vegetable and Fruit Detection Using YOLO
+
+In this project, I fine-tuned the YOLO (You Only Look Once) algorithm to detect various vegetables and fruits using a local dataset. By leveraging transfer learning techniques, I improved detection accuracy and performance for real-time applications. The model demonstrates robust capabilities in distinguishing between different produce items, making it suitable for applications in agriculture, retail, and smart kitchen.
+
+<div class="row  justify-content-sm-center ">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="{{ site.baseurl }}/assets/img/projects/19.jpg" data-fancybox="project" title="Example Image" class="zoom" >
+        {% include figure.liquid path="assets/img/projects/19.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    the image preview is allowed for now, i will updating soon.
+</div>
+
+---
+{% comment %}
 ### images segmentation using SAM
 
 <div class="row  justify-content-sm-center ">
@@ -193,3 +225,4 @@ Explore the full project on my GitHub repository for detailed architecture and i
 </div>
 
 ---
+{% endcomment %}

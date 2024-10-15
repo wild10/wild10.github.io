@@ -22,6 +22,7 @@ I am a prospective Ph.D. student in Computer Science, actively collaborating wit
 
 Previously, I worked with Professor Jose E. Ochoa at the Research and Innovation Center in Computer Science Labs in Peru, focusing on deep learning methods to detect aggressive or offensive content in social media. I have also volunteered and participated in key events, such as the IISPDL 2019, Khipu 2019, Latinx in AI at NeurIPS 2019 and 2020, the TRAC 2020 Workshop, and the [Mexican NLP Summer School 2021](https://ampln.github.io/escuelaverano2021/) for further info check my [CV](https://wild10.github.io/cv/).
 
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
