@@ -1,17 +1,15 @@
 ---
 layout: page
 title: computer Vision projects
-description: these small implementation are relate to CV and applications in real life.
+description:
 img: assets/img/projects/1.jpg
 redirect: 
-importance: 3
+importance: 1
 category: work
 ---
 During my Master program i study and reimplement some of the cool Deep learning projects.
 
 ---
-
-
 
 ### Video Classification 
 
@@ -23,6 +21,9 @@ Video classification is a critical task in the field of computer vision and mach
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/mZdsx-WhCwo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/ivPULmZRb3U" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -43,7 +44,9 @@ Video classification is a critical task in the field of computer vision and mach
 
 <div class="row  justify-content-sm-center ">
     <div class="col-sm mt-3 mt-md-0">
+        <a href="{{ site.baseurl }}/assets/img/projects/5.png" data-fancybox="project" title="Example Image" class="zoom" >
         {% include figure.liquid path="assets/img/projects/5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/pNrzZKEyGtM" class="img-fluid rounded z-depth-1" %}
@@ -96,6 +99,7 @@ Many tasks in geometry processing and physical simulation benefit from multireso
     </li>
 </ul>
 
+--- 
 ##### 3D Face Reconstruction from a Single Image
 
 3D face reconstruction is a fundamental Computer Vision problem of extraordinary difficulty. this paper uses a single image as input and i prove their effectiveness by running the code and using only one image(2D) that uses the CNN and facial landmark localization methods.
@@ -119,8 +123,8 @@ Many tasks in geometry processing and physical simulation benefit from multireso
     :rocket: <a href="https://github.com/AaronJackson/vrn"> original_repo </a>
     :play_or_pause_button: <a href="https://www.youtube.com/watch?v=XWRRvUBN1wk"> video_youtube_here </a> </li>
 </ul>
----
 
+---
 
 #### Optical Character Recognition
  
@@ -128,13 +132,15 @@ Many tasks in geometry processing and physical simulation benefit from multireso
 
  <div class="row  justify-content-sm-center ">
     <div class="col-sm mt-3 mt-md-0">
+        <a href="{{ site.baseurl }}/assets/img/projects/14.png" data-fancybox="project" title="Example Image" class="zoom" >
         {% include figure.liquid path="assets/img/projects/14.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/13.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/mZdsx-WhCwo" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/x8lLRVlOT1E" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -148,12 +154,36 @@ Many tasks in geometry processing and physical simulation benefit from multireso
     :play_or_pause_button: <a href=""> video_youtube_here </a> </li>
 </ul>
 
+--- 
 ### Object Detection using YOLO
 
+In this project, I implemented a robust person detection system tailored for sports environments using YOLO. Leveraging real-time processing, this application accurately identifies and tracks individuals during dynamic gameplay, enhancing analysis and viewer engagement.
 
+
+
+<div class="row  justify-content-sm-center ">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="{{ site.baseurl }}/assets/img/projects/18.png" data-fancybox="project" title="Example Image" class="zoom" >
+        {% include figure.liquid path="assets/img/projects/18.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/-viWP8NUbQM" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+Key Features:
+
+Real-Time Detection: Captures fast-paced action with minimal latency.
+Custom Architecture: Optimized YOLO model fine-tuned for sports contexts.
+Comprehensive Demo: Watch the detection in action here.
+Explore the full project on my GitHub repository for detailed architecture and implementation insights!
+
+---
 ### images segmentation using SAM
 
- <div class="row  justify-content-sm-center ">
+<div class="row  justify-content-sm-center ">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/16.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>

@@ -3,7 +3,7 @@ layout: page
 title: Machine Learning projects.
 description: During some of my school class i was involve in many projects working in team and personal proyects, i have uploaded on youtube some of them and share here the links.
 img: assets/img/projects/0.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---
