@@ -2,7 +2,7 @@
 layout: page
 title: Thrive Hub
 description: Space of  productivity, self-improvement, creativity, fun and  Interesting topics.
-img: assets/img/projects/nlp/2.jpg
+img: assets/img/projects/llama.png
 importance: 4
 category: fun
 ---

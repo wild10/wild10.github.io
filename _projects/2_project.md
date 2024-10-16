@@ -33,7 +33,7 @@ The results of this research were published in top AI conferences, and I present
         </div>
         <div class="col-sm mt-3 mt-md-0">
             <a href="https://underline.io/events/244/sessions/9038/lecture/41432-aggressive-language-detection-using-vgcn-bert-for-spanish-texts" data-fancybox="project" title="Example Image" class="zoom" >
-                {% include figure.liquid path="assets/img/projects/nlp/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+                {% include figure.liquid path="assets/img/projects/nlp/3.png" title="example image" class="img-fluid rounded z-depth-1" %}
             </a>
         </div>
     </div>
