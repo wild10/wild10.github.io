@@ -64,7 +64,6 @@ Read more
 </ul>
 
 --- 
----
 ### Text Generation
 
 #### 1. Quechua Indigenous Lyrics Generation using LSTM.
@@ -87,12 +86,9 @@ Developed a text generation model for the Quechua language using LSTM networks. 
 </div>
 
 Read more
-<ul>
- <li>Generación automática de letras de canciones usando redes neuronales recurrentes para el quechua
-  :scroll: <a href="https://repositorio.unsaac.edu.pe/handle/20.500.12918/7276"> thesis_online_repor </a>
-  :rocket: <a href="https://github.com/wild10/Quechua_lyrics_generation"> git_repo </a>
- </li>
-</ul>
+  * Generación automática de letras de canciones usando redes neuronales recurrentes para el quechua
+  Doc repository online :scroll: [thesis_online_repor](https://repositorio.unsaac.edu.pe/handle/20.500.12918/7276)
+  * You can check out the :rocket: [git_repo](https://github.com/wild10/Quechua_lyrics_generation) 
 
 ---
 ### Speech Recognition
@@ -102,11 +98,8 @@ Read more
 This project compares three machine learning models: Gaussian Mixture Model (GMM), Hidden Markov Model (HMM), and Support Vector Machines (SVM). Using the same MFCC features, HMM and GMM achieved about 94% accuracy on 100 audio recordings. SVM reached around 90% accuracy for classifying 2-5 individuals but performed poorly with more classes.
 
 Read more
-<ul>
- <li>
-  :rocket: <a href="https://github.com/wild10/Comparation_Study_SR"> git_repo </a>
- </li>
-</ul>
+ * You can check out the :rocket: [git_repo_here](https://github.com/wild10/Comparation_Study_SR)
+ 
 
 
 
