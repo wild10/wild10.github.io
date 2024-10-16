@@ -97,7 +97,7 @@ Read more
 ---
 ### Speech Recognition
 
-#### 1. Comparative study of Speaker Recognition Models
+#### 1. A Comparison Study of Speaker Identification models
 
 This project compares three machine learning models: Gaussian Mixture Model (GMM), Hidden Markov Model (HMM), and Support Vector Machines (SVM). Using the same MFCC features, HMM and GMM achieved about 94% accuracy on 100 audio recordings. SVM reached around 90% accuracy for classifying 2-5 individuals but performed poorly with more classes.
 
