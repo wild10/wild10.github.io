@@ -1,32 +1,32 @@
 {
   "basics": {
     "name": "Errol W. Mamani",
-    "label": "Mcs",
+    "label": "",
     "image": "",
     "email": "wildr.10@gmail.com",
     "phone": "",
     "url": "",
     "summary": "A Peruvian ML Engineer, willing to learn all about AI and computational social science",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "javier Luna pizarro",
+      "postalCode": "04000",
+      "city": "Arequipa",
+      "countryCode": "Peru",
+      "region": "Arequipa"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "EWilderd",
+        "url": "https://x.com/EWilderd"
       }
     ]
   },
   "work": [
     {
-      "name": "PING4ALL",
+      "name": "Ping4All",
       "position": " Computer Vision Engineer ",
-      "url": "https://example.com",
+      "url": "https://www.ping4all.lu/",
       "startDate": "2022-12-19",
       "endDate": "2024-10-09",
       "summary": "As ML Engineer i worked design and implementing Deep learning solutions for the FMO object detection through videos.",

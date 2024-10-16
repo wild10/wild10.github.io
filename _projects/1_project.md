@@ -5,7 +5,7 @@ description: During some of my school class i was involve in many projects worki
 img: assets/img/projects/0.jpg
 importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 
 ### Software dev
