@@ -1,6 +1,6 @@
 ---
 layout: page
-title: porfolio
+title: portfolio
 permalink: /projects/
 description: 
 nav: true
