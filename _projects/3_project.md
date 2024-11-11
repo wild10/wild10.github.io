@@ -203,12 +203,12 @@ In this project, I fine-tuned the YOLO (You Only Look Once) algorithm to detect 
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/gRzWhL-86Gg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    the image preview is allowed for now, i will updating soon.
+    the image preview of the set of images trained as batch in the left, and test step for the fine-tuned model video(in the right).
 </div>
 
 ---
