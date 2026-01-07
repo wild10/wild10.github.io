@@ -31,5 +31,18 @@ source /home/wilderd/anaconda3/bin/activate
 conda activate fmo_yolo
 # give super user
 sudo bundle exec jekyll serve
+```
+
+## Run with docker
+
+first we need to create the container, and then we run it. Altough we can use the same command to build and run the container. we needed to fix the docker file: to use ruby:3.1 instead of latest.
+
+```bash
+   # crear imagen docker
+   docker compose build --no-cache
+
+   # run the container
+   docker compose up
+```
 
 
