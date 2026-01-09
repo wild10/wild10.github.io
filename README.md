@@ -42,7 +42,14 @@ first we need to create the container, and then we run it. Altough we can use th
    docker compose build --no-cache
 
    # run the container
-   docker compose up
+   docker compose up -d
 ```
 
+after running we are going to se that we have a container running using:
+
+```bash
+   # show running containersS
+   docker ps
+```
+check the website at: http://0.0.0.0:8080/
 
