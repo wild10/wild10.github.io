@@ -9,9 +9,10 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>errol.mamani@ucsp.edu.pe</p>
-    <!--<p>123 your address street</p>-->
-    <p>Arequipa, Peru</p>
+    <p style="font-size: smaller; font-family: monospace;">errol.mamani@ucsp.edu.pe</p>
+    <p style="font-size: smaller; font-family: monospace;">wildr.10@gmail.com</p>
+    <!--<p>123 your address street</p>--> 
+    <p style="font-size: smaller; font-family: monospace;">Arequipa, Peru</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
