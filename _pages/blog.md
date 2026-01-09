@@ -4,9 +4,14 @@ title: blog
 permalink: /blog/
 ---
 
-### [DSA(Data Structures and Algorithms) using python](https://www.blog.com) (Not beginer tutorial)
+# [Data Structures & Algorithms with Python](https://www.blog.com) 
+---
 
-here I will write about my journey learning DSA using python. But before I have to mention that this is not a complete guide to DSA, instead it is my personal notes and experience learning DSA using python. I will be using python 3.10 and jupyter notebook to write my notes.
+ (Not beginer tutorial)
+
+## Introduction and why python?.
+
+here I will write about my journey learning DSA using python. But before I have to mention that this is not a complete guide to DSA, instead it is my personal notes and experience learning DSA using python. I will be using python 3.x and  may some c++/c programming language just to compare the performance and as an intention to choose the best langauge for implementing the right and easy way to solve the problem. finally i want to say that althought there is many programming languages like java, c# that personally learnt in the past i think for my as AI engineer python is the best choice(so just a personal opinion), said that let's start.
 
 ### What is DSA?
 
@@ -18,7 +23,7 @@ Notes: you can find a pleanty explanation in books as well as online: i recommen
 
 If you are still here reading i will explain you how I started myself figure out why this is important in 2026, this. as an Machine Learning + AI Engineer that previously worked in a company building, fine-tunning, and most importante who know the core of the modern LLMs. I saw many people that are using LLMs for generate programs without noting the real good or not of the code generated. and this is a big problem, because if you are not programmer or don't know about programming when something happen you will really in a neightmare, there are many reasons that some guys wrote [Don´t be a vibe coder](https://medium.com/data-science-in-your-pocket/dont-be-a-vibe-coder-30fa7c525971), and as an engineer we want something not just work, we can something scalable, with good engineering techniques, and maintable. this is where DSA comes in, okay now less words and start coding.
 
-### the first program[ fibonacci Numbers]
+### the first program [ fibonacci Numbers]
 
 everybody know the fibonacci sequence: the story start about famous rabits that were left in a village to reproduce and after a certain period of time we want to know how many rabits we have. The really true is that Fibonacci invented this scenario and used it to explain his famous problem in his math book in the 12th century. yeah this is old math problem.
 

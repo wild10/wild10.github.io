@@ -3,27 +3,29 @@
   contents:
     - name: Full Name
       value: Errol W. Mamani Condori
-    - name: Date of Birth
-      value: 21th July 
-    - name: Languages
-      value: English, Spanish
+    - name: Email
+      value: "wildr.10@gmail.com"
+    - name: Summary
+      value: A Peruvian ML Engineer, willing to learn all about AI and computational social science
 
 - title: Education
   type: time_table
   contents:
-    - title: Mcs(c)
-      institution: Universidad Católica San Pablo, Arequipa, Peru
-      year: 2020
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Master in Computer Science(c)
-      institution: Universidad Catolica San Pablo, Arequipa, Peru
-      year: 2020
+      institution: Universidad Católica San Pablo, Arequipa, Peru
+      year: 2018-2020
+      description:
+        - Minor in Computer Vision and Natural Language Processing.
+        - title: Research
+          contents:
+            - Spanish Offensive Language Detection using Deep Learning approaches.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: B.S. iN INFORMATiON AND SYSTEMS ENGiNEERiNG 
+      institution: Universidad San Antonio Abad del Cusco, Cusco, Peru
+      year: 2009-2016
       description:
         - Description 1.
         - Description 2.

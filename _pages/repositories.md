@@ -25,9 +25,9 @@ nav_order: 4
     <div class="col-sm-6">
         <div class="card mb-3">
             <div class="card-body">
-                <h5 class="card-title">2. Deep Learning</h5>
-                <p class="card-text">Description of your second most important project.</p>
-                <a href="https://github.com/wild10/project2" class="btn btn-primary btn-sm">View Repo</a>
+                <h5 class="card-title">2. MLOps & ML System.</h5>
+                <p class="card-text"> This is a collection of MLOps related projects which include: apis, pipelines, orchestration, monitoring, and more. <strong> README in spanish</strong> (sorry for that) </p>
+                <a href="https://github.com/wild10/wild10/tree/main/docker%2Bk" class="btn btn-primary btn-sm">View Repo</a>
             </div>
         </div>
     </div>
@@ -35,9 +35,9 @@ nav_order: 4
     <div class="col-sm-6">
         <div class="card mb-3">
             <div class="card-body">
-                <h5 class="card-title">Project Name 3</h5>
-                <p class="card-text">Description of your third most important project.</p>
-                <a href="https://github.com/wild10/project3" class="btn btn-primary btn-sm">View Repo</a>
+                <h5 class="card-title">3. System-Infra for AI</h5>
+                <p class="card-text"> This is a set of tools , frameworks, services to check : latency vs throughput, performance, concurrency,job scheduler, multiprocessing / threading, GPU, HPC.</p>
+                <a href="https://github.com/wild10/wild10/tree/main/multiprocessing" class="btn btn-primary btn-sm">View Repo</a>
             </div>
         </div>
     </div>
@@ -45,9 +45,9 @@ nav_order: 4
     <div class="col-sm-6">
         <div class="card mb-3">
             <div class="card-body">
-                <h5 class="card-title">Project Name 4</h5>
-                <p class="card-text">Description of your fourth most important project.</p>
-                <a href="https://github.com/wild10/project4" class="btn btn-primary btn-sm">View Repo</a>
+                <h5 class="card-title">4.Data Structures & Algorithms</h5>
+                <p class="card-text"> High-performance implementations of core DS&A, optimized for time and space complexity. This repository serves as a reference for clean, idiomatic Python code applied to complex problem-solving..</p>
+                <a href="https://github.com/wild10/wild10/tree/main/python" class="btn btn-primary btn-sm">View Repo</a>
             </div>
         </div>
     </div>

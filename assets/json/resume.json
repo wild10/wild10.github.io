@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Errol W. Mamani",
+    "name": "Errol W. Mamani Condori",
     "label": "",
     "image": "",
     "email": "wildr.10@gmail.com",
     "phone": "",
     "url": "",
-    "summary": "A Peruvian ML Engineer, willing to learn all about AI and computational social science",
+    "summary": "A Peruvian AI-ML Engineer, willing to learn all about AI and computational social science",
     "location": {
       "address": "javier Luna pizarro",
       "postalCode": "04000",
@@ -26,12 +26,14 @@
     {
       "name": ":classical_building: Ping4All",
       "location": "Luxembourg",
-      "position": " Computer Vision Engineer ",
+      "position": "Computer Vision Engineer",
       "url": "https://www.ping4all.lu/",
       "startDate": "2022-12-19",
       "endDate": "2024-10-09",
       "summary": "As ML Engineer i worked design and implementing Deep learning solutions for the FMO object detection through videos.",
-      "highlights": ["object Detection"]
+      "highlights": [
+        "object Detection"
+      ]
     }
   ],
   "volunteer": [
@@ -43,7 +45,10 @@
       "startDate": "2022-01-20",
       "endDate": "2024-08-08",
       "summary": "LatinX in AI (LXAI) bridges communities, academics, industry, and politicians working to further AI innovation and resources for LatinX individuals globally.",
-      "highlights": ["Awarded 'Travel grant' for promoting and help the organization.", "NAACL 2024 registration free waver"]
+      "highlights": [
+        "Awarded 'Travel grant' for promoting and help the organization.",
+        "NAACL 2024 registration free waver"
+      ]
     },
     {
       "organization": "Cohere for AI",
@@ -53,7 +58,6 @@
       "startDate": "2023-01-20",
       "endDate": "2024-08-08",
       "summary": "As beginner in research with Spanish native language i helped to improve Aya Project dataset."
-      
     }
   ],
   "education": [
@@ -66,7 +70,9 @@
       "startDate": "2017-01-01",
       "endDate": "2020-01-01",
       "score": "10",
-      "courses": ["hate speech"]
+      "courses": [
+        "hate speech"
+      ]
     }
   ],
   "awards": [
@@ -207,7 +213,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
