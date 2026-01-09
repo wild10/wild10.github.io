@@ -17,7 +17,7 @@ here I will write about my journey learning DSA using python. But before I have 
 
 well while everybody that start learning programming will learn about the basic data structures and algorithms, but DSA is a bit different. I am pretty sure you will find a lot of resources online about DSA, so i will not try to explain it again, instead i will jump in to the programs and explain why we need at first to learn DSA. with simple examples.
 
-Notes: you can find a pleanty explanation in books as well as online: i recommend you follow : [Cracking the coding interview](https://dn720001.ca.archive.org/0/items/4-programming-interviews-exposed-4th-edition/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf), [grokking algorithms 2nd Edition](https://www.amazon.com/Grokking-Algorithms-Second-Aditya-Bhargava/dp/1633438538) and you can find a lot of resources online, for python programming as a beginner i recommend you follow [geeksforgeeks](https://www.geeksforgeeks.org/)
+> Notes: you can find a pleanty explanation in books as well as online: i recommend you follow : [Cracking the coding interview](https://dn720001.ca.archive.org/0/items/4-programming-interviews-exposed-4th-edition/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf), [grokking algorithms 2nd Edition](https://www.amazon.com/Grokking-Algorithms-Second-Aditya-Bhargava/dp/1633438538) and you can find a lot of resources online, for python programming as a beginner i recommend you follow [geeksforgeeks](https://www.geeksforgeeks.org/)
 
 ### here is where i started:
 
@@ -38,7 +38,13 @@ everybody know the fibonacci sequence: the story start about famous rabits that 
 6° month --> 8 couples of rabirts
 7° month --> 13 couples of rabirts ... 
 
-okay if you see the pattern we can write a program to calculate the number of rabits in the n° month >> fib(n) = fib(n-1) + fib(n-2). This is already know for us. so i can write simple recursive function in python to calculate the number of rabits in the n° month.
+okay if you see the pattern we can write a program to calculate the number of rabits in the n° month so the formula is:
+
+$$
+fib(n) = fib(n-1) + fib(n-2)
+$$ 
+
+This is already know for us. so i can write simple recursive function in python to calculate the number of rabits in the n° month.
 
 ```python 
 def fib(n):

@@ -48,8 +48,14 @@ rss_icon: false #true previsouly
 navbar_fixed: true
 footer_fixed: true
 
-# Dimensions
-max_width: 800px
+## just updated >> those were disabled before.
+search_enabled: true
+socials_in_search: true
+posts_in_search: true
+bib_search: true
+
+# Dimensions: 930px was the default, 
+max_width: 890px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -589,14 +595,14 @@ jekyll_get_json:
     json: assets/json/resume.json # it can also be an url
 jsonresume:
   - basics
-  - work
   - education
+  - skills
+  - work
+  - languages
   #- publications
   #- projects
   - volunteer
   #- awards
   - certificates
-  #- skills
-  - languages
   #- interests
   #- references

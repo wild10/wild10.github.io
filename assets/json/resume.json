@@ -22,57 +22,201 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Universidad Catolica San Pablo, Arequipa - Peru",
+      "location": "Arequipa, Peru",
+      "url": "https://ucsp.edu.pe/",
+      "area": "Computer Science",
+      "studyType": "M.S. in Computer Science",
+      "startDate": "2018-03-01",
+      "endDate": "2020-05-30",
+      "score": "14",
+      "courses": [
+        "Minor in Computer Vision and Natural Language Processing. GPA: 3.2"
+      ]
+    },
+    {
+      "institution": "Universidad San Antonio abad del Cusco, Cusco - Peru",
+      "location": "Cusco, Peru",
+      "url": "https://unsaac.edu.pe/",
+      "area": "Informatics and System Engineering",
+      "studyType": "B.S. in Information and System Engineering",
+      "startDate": "2009-05-01",
+      "endDate": "2016-10-28",
+      "score": "16",
+      "courses": [
+        "Ranked 3rd in graduating class, with an overall grade of 12.9/20 scale (equivalent to top 5 % of students)"
+      ]
+    }
+  ],
   "work": [
     {
-      "name": ":classical_building: Ping4All",
+      "name": "Crown EAS Tech",
+      "location": "Miami, FL, USA",
+      "position": "Computer Vision Engineer",
+      "url": "https://www.ping4all.lu/",
+      "startDate": "2024-12-01",
+      "endDate": "2025-11-30",
+      "summary": "Built and deployed end-to-end AI systems, including real-time face recognition and people tracking optimized with ONNX/TensorRT for edge and cloud, LLM-based RAG chatbots for retail personalization, and internal tools for dataset management, annotation quality, and model monitoring to ensure reliable ML workflows.",
+      "highlights": [
+        "End-to-end Computer Vision system",
+        "Inference optimization + acceleration",
+        "Agentic LLM-based + RAG system",
+        "Dataset creation + annotation",
+        "CI/CD for ML (MLOps)",
+        "Cloud Monitoring & observability"
+      ]
+    },
+    {
+      "name": "Ping4All",
       "location": "Luxembourg",
       "position": "Computer Vision Engineer",
       "url": "https://www.ping4all.lu/",
       "startDate": "2022-12-19",
       "endDate": "2024-10-09",
-      "summary": "As ML Engineer i worked design and implementing Deep learning solutions for the FMO object detection through videos.",
+      "summary": "Built a production-grade computer vision system for sports analytics, leveraging CUDA, PyTorch, C++/PyBind11, and multiprocessing to optimize real-time inference and latency, training and scaling experiments on HPC clusters with SLURM, and deploying Dockerized models on AWS with job scheduling, monitoring, and system-level orchestration for reliable AI infrastructure.",
       "highlights": [
-        "object Detection"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Latinx in AI",
-      "location": "California, US",
-      "position": "co-chair of lxnlp workshop",
-      "url": "https://www.latinxinai.org/",
-      "startDate": "2022-01-20",
-      "endDate": "2024-08-08",
-      "summary": "LatinX in AI (LXAI) bridges communities, academics, industry, and politicians working to further AI innovation and resources for LatinX individuals globally.",
-      "highlights": [
-        "Awarded 'Travel grant' for promoting and help the organization.",
-        "NAACL 2024 registration free waver"
+        "Computer Vision system",
+        "Real-Time Video Analytics",
+        "HPC (SLURM)",
+        "Dockerized models on AWS",
+        "Job Scheduling & monitoring"
       ]
     },
     {
-      "organization": "Cohere for AI",
-      "location": "California, US",
-      "position": "beginner in research",
-      "url": "https://cohere.com/research",
-      "startDate": "2023-01-20",
-      "endDate": "2024-08-08",
-      "summary": "As beginner in research with Spanish native language i helped to improve Aya Project dataset."
+      "name": "RICS(Research and Innovation Center in Computer Science)",
+      "location": "Arequipa, Peru",
+      "position": "Research Assistant",
+      "url": "https://dc.ucsp.edu.pe/investigacion/#grupos-de-investigaci-n",
+      "startDate": "2021-05-19",
+      "endDate": "2022-05-09",
+      "summary": "Designed, implemented, and fine-tuned deep learning models for NLP using PyTorch, performing data analysis and visualization in Python within Dockerized environments, authoring peer-reviewed research papers, presenting results at conferences, and collaborating with multidisciplinary research teams to deliver reproducible and impactful NLP research.",
+      "highlights": [
+        "Deep Learning Models",
+        "Data Analysis",
+        "Transformer Models",
+        "Representation Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "name": "Freelance Machine Learning Engineer",
+      "location": "Arequipa, Peru",
+      "position": "Machine Learning Engineer",
+      "url": "https://dc.ucsp.edu.pe/investigacion/#grupos-de-investigaci-n",
+      "startDate": "2018-07-19",
+      "endDate": "2020-05-09",
+      "summary": "Delivered end-to-end AI solutions spanning computer vision, NLP, and speech, including YOLO/SSD-based meter-reading systems with Flask APIs, BiLSTM-based text generation with OCR data pipelines, and comparative evaluation of speaker-identification models (SVM, GMM, HMM).",
+      "highlights": [
+        "Computer Vision",
+        "Natural Language Processing",
+        "Speech Recognition",
+        "YOLO/SSD-based meter-reading systems",
+        "BiLSTM-based text generation",
+        "OCR data pipelines",
+        "Speaker-identification models (SVM, GMM, HMM)"
+      ]
     }
   ],
-  "education": [
+  "skills": [
     {
-      "institution": "Universidad Catolica San Pablo, Arequipa, Peru",
-      "location": "Arequipa, Peru",
-      "url": "https://ucsp.edu.pe/",
-      "area": "Computer Science",
-      "studyType": "Mcs(c)",
-      "startDate": "2017-01-01",
-      "endDate": "2020-01-01",
-      "score": "10",
-      "courses": [
-        "hate speech"
+      "name": "Cloud",
+      "level": "Master",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "AWS:",
+        "ECS",
+        "S3",
+        "Lambda",
+        "SageMaker",
+        "Azure:",
+        "foundry",
+        ""
       ]
+    },
+    {
+      "name": "MLOps",
+      "level": "Master",
+      "icon": "fa-solid fa-infinity",
+      "keywords": [
+        "Docker",
+        "FastAPI",
+        "github/gitlab",
+        "Jenkins",
+        "K8s",
+        "Prometheus",
+        "S3",
+        ""
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "C, C++",
+        "JavaScript",
+        "Java",
+        "Matlab",
+        ""
+      ]
+    },
+    {
+      "name": "GenAI",
+      "level": "Master",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Langchain",
+        "LangGraph",
+        "OpenAI",
+        "flowise",
+        "PineCone",
+        "chromaDB",
+        "Faiss",
+        ""
+      ]
+    },
+    {
+      "name": "Computer vision",
+      "level": "Master",
+      "icon": "fa-solid fa-video",
+      "keywords": [
+        "Opencv",
+        "Numpy",
+        "Pandas",
+        "Matplotlib",
+        "Seaborn",
+        "Cuda",
+        "pytorch",
+        "Tensorflow",
+        "Keras",
+        "Scikit-learn",
+        ""
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker",
+      "icon": "fa-solid fa-flag"
+    },
+    {
+      "language": "Quechua",
+      "fluency": "Native speaker",
+      "icon": "fa-solid fa-flag"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced",
+      "icon": "fa-solid fa-flag"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Basic",
+      "icon": "fa-solid fa-flag"
     }
   ],
   "awards": [
@@ -86,44 +230,44 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Generative AI with LLMs",
+      "date": "2024-10-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/SMM0SX9IWLPO",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "LLMs as OS: Agent memory",
+      "date": "2024-12-01",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/SMM0SX9IWLPO",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "MLOps Fundamentals",
+      "date": "2024-12-01",
+      "issuer": "Udemy",
+      "url": "https://drive.google.com/file/d/1lrlc9ixw9vTR3JXuvhREZmwf5YE9OSWo/view",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AWS Machine Learning",
+      "date": "2024-10-01",
+      "issuer": "Udemy",
+      "url": "https://drive.google.com/file/d/1Uts_GJACxSG5btblyIm4YM34VYpFAMgu/view",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Azure Machine Learning",
+      "date": "2025-12-01",
+      "issuer": "Udemy",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Agentic LangGraphs",
+      "date": "2025-12-01",
+      "issuer": "Udemy",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
     }
@@ -151,36 +295,28 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
+  "volunteer": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "organization": "Latinx in AI",
+      "location": "California, US",
+      "position": "Co-Chair of lxnlp workshop",
+      "url": "https://www.latinxinai.org/",
+      "startDate": "2022-01-20",
+      "endDate": "2024-08-08",
+      "summary": "LatinX in AI (LXAI) bridges communities, academics, industry, and politicians working to further AI innovation and resources for LatinX individuals globally.",
+      "highlights": [
+        "Awarded 'Travel grant' for promoting and help the organization.",
+        "NAACL 2024 registration free waver"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker",
-      "icon": "PE"
     },
     {
-      "language": "Quechua",
-      "fluency": "Native speaker",
-      "icon": "PE"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "organization": "Cohere for AI",
+      "location": "California, US",
+      "position": "Beginner in research",
+      "url": "https://cohere.com/research",
+      "startDate": "2023-01-20",
+      "endDate": "2024-08-08",
+      "summary": "As beginner in research with Spanish native language i helped to improve Aya Project dataset."
     }
   ],
   "interests": [
