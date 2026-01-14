@@ -2,7 +2,7 @@
 layout: page
 title: RAG  Chatbot
 description: RAG chatbot using Pinecone,openai/ollama for document Q&A.
-img: assets/img/projects/rag-4.png
+img: assets/img/projects/rag_preview.png
 importance: 1
 category: Generative AI 
 giscus_comments: false #true
