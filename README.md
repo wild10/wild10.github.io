@@ -45,7 +45,7 @@ first we need to create the container, and then we run it. Altough we can use th
    docker compose up -d
 ```
 
-after running we are going to se that we have a container running using:
+after running we are going to see that we have a container running using:
 
 ```bash
    # show running containersS

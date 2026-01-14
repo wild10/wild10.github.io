@@ -1,11 +1,11 @@
 ---
 layout: page
-title: NLP projects
-description: A small set of Natural Language Processing projects.
-img: assets/img/projects/2.jpg
+title: NLP Projects
+description: Exploring Text Generation, Text clasification and Speaker identification.
+img: assets/img/research/2_othernlp.jpg
 importance: 2
-category: work
-giscus_comments: false #true
+category: NLP
+related_publications: false
 ---
 
 ---
@@ -100,6 +100,4 @@ This project compares three machine learning models: Gaussian Mixture Model (GMM
 Read more
  * You can check out the :rocket: [git_repo_here](https://github.com/wild10/Comparation_Study_SR)
  
-
-
-
+---
