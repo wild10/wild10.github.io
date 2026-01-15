@@ -30,7 +30,7 @@ In my research project, I focused on detecting offensive language in user-genera
 The results of this research were published in top AI conferences, and I presented my findings through a papers and posters, contributing to the ongoing dialogue in the field and helping to enhance automated detection methods.
 
 <div class="row  justify-content-center ">
-        <div class="col-sm mt-8">
+        <div class="col-sm-8 mt-8">
             <a href="{{site.baseurl}}/assets/img/projects/nlp/1.png" data-fancybox="project" title="Result table" class="zoom" >
                 {% include figure.liquid path="assets/img/projects/nlp/1.png" title="example image" class="img-fluid rounded z-depth-1" %}
             </a>
@@ -54,9 +54,11 @@ paper & presentations
 </ul>
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+    <a href="{{site.baseurl}}/assets/img/projects/9.png" data-fancybox="project" title="Result table" class="zoom" >
         {% include figure.liquid loading="eager" path="assets/img/projects/9.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </a>
     </div>
 </div>
 <div class="caption">
