@@ -24,12 +24,21 @@ This project implements an enterprise-grade RAG (Retrieval-Augmented Generation)
 5. **LLM Integration**: LLaMA 3 or GPT-4 for response generation
 
 **RAG Pipeline**:
-```
+<!-- ```
 PDF Documents → Text Extraction → Chunking → Embeddings → Pinecone
                                                               ↓
 User Query → Embedding → Similarity Search → Context → LLM → Response
-```
-
+``` -->
+<div class="row  justify-content-sm-center ">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="{{ site.baseurl }}/assets/img/projects/x_rag.png" data-fancybox="project" title="Example Image" class="zoom" >
+        {% include figure.liquid path="assets/img/projects/x_rag.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=B_J-R_X-2JQ&t=22s" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 ---
 
 ### Technical Implementation
@@ -64,21 +73,17 @@ User Query → Embedding → Similarity Search → Context → LLM → Response
 
 ---
 
-### Use Cases
+<!-- ### Use Cases
 
 - **Document Q&A**: Legal contracts, medical literature, financial reports
 - **Knowledge Management**: Internal wikis, product documentation
 - **Customer Support**: Automated assistance with company policies
 - **Resume Analysis**: CV screening and candidate matching
 
----
+--- -->
 
 ### Technology Stack
-
-- Python 3.10+, LangChain, Pinecone
-- Ollama/OpenAI (LLM inference)
-- FastAPI, Docker, Kubernetes
-- AWS (EKS, RDS, S3)
+you can checkout my [github here](https://github.com/wild10/Rag_ChatbotAI/tree/main) 
 
 ---
 
