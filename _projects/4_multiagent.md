@@ -109,7 +109,6 @@ User Interface → API Gateway (FastAPI) → Agent Orchestration (LangChain + MC
 - Comprehensive audit logging
 - Rate limiting and DDoS protection -->
 
----
 
 <!-- ### Performance Metrics
 
